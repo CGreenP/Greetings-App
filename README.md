@@ -1,9 +1,9 @@
 # Greetings-App
-A Simple Greetings App in Android.
+A Simple Greetings App in Android that greets the user name taken from the input field.
 
 # Greetings-App apk file
 https://github.com/CGreenP/Greetings-App/releases/download/v1.0.0/GreetingsAPP.apk
 
 # Output
-![1](https://github.com/CGreenP/Greetings-App/assets/56307530/1eece1ba-1503-4060-bda2-07a370893cc8)
-![2](https://github.com/CGreenP/Greetings-App/assets/56307530/05a6a30c-2ce5-404a-aa42-6c8065f59d48)
+![1](https://github.com/CGreenP/Greetings-App/assets/56307530/864feed2-a245-43df-a05d-d6a87e0ac01b)
+![2](https://github.com/CGreenP/Greetings-App/assets/56307530/227db2b7-ca2a-4840-ab8f-e48b26e90f3b)
